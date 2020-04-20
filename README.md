@@ -30,10 +30,10 @@ See [COPYING](COPYING) for more information or see https://opensource.org/licens
 Downloads
 -------------
 
-- [Win32 Wallet](https://bintray.bitbaba.com/bitgold/bitgold-win32.tar.gz)
-- [Ubuntu Wallet](https://bintray.bitbaba.com/bitgold/bitgold-ubuntu64.tar.gz)
-- [Mac Wallet](https://bintray.bitbaba.com/bitgold/bitgold-mac.tar.gz)
-- [pre-built miner for windows](https://bintray.bitbaba.com/bitgold/bitgold-miner.zip)
+- [Win32 Wallet](https://github.com/bitcointop/bitgold/releases/download/1.0.1/bitgold-win32.tar.gz)
+- [Ubuntu Wallet](https://github.com/bitcointop/bitgold/releases/download/1.0.1/bitgold-ubuntu64.tar.gz)
+- [Mac Wallet](https://github.com/bitcointop/bitgold/releases/download/1.0.1/bitgold-mac.tar.gz)
+- [pre-built miner for windows](https://github.com/bitcointop/bitgold/releases/download/1.0.1/bitgold-miner.zip)
 
 Services
 ----------------
