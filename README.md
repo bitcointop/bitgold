@@ -38,15 +38,15 @@ Downloads
 Services
 ----------------
 
-- [Pool](https://pool.bitbaba.com/)
+- [Pool](https://)
 
 - [source of Miner](https://github.com/bitbaba/cpuminer)
 
-- [Explorer](https://bitgold.bitbaba.com/)
+- [Explorer](https://)
 
-- [Exchange1](https://vipzbt.com/Trade/index/market/bgd_cny)
+- [Exchange1](https://)
 
-- [Exchange2](https://ex.bitbaba.com/)
+- [Exchange2](https://)
 
 Features
 --------
