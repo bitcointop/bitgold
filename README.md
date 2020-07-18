@@ -35,6 +35,10 @@ Downloads
 - [Mac Wallet](https://github.com/bitcointop/bitgold/releases/download/1.0.1/bitgold-mac.tar.gz)
 - [pre-built miner for windows](https://github.com/bitcointop/bitgold/releases/download/1.0.1/bitgold-miner.zip)
 
+Link Node
+-------------
+- addnode 152.136.195.138 add
+
 Services
 ----------------
 
